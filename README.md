@@ -3,7 +3,7 @@
 A machine learning–based web application that predicts the probability of admission
 to graduate programs based on a student’s academic profile.
 
-## Tech Stack
+## Tech Stack  
 - Python
 - Machine Learning
 - Flask
