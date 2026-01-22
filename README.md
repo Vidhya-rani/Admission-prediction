@@ -4,7 +4,7 @@ A machine learning–based web application that predicts the probability of admi
 to graduate programs based on a student’s academic profile.
 
 ## Tech Stack  
-- Python  
+- Python
 - Machine Learning
 - Flask
 - Jupyter Notebook
